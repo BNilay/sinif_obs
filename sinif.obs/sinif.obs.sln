@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sinif.obs", "sinif.obs\sinif.obs.csproj", "{B7EBBD7D-AF0E-4141-A835-189B5CA4155C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7EBBD7D-AF0E-4141-A835-189B5CA4155C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EBBD7D-AF0E-4141-A835-189B5CA4155C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EBBD7D-AF0E-4141-A835-189B5CA4155C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EBBD7D-AF0E-4141-A835-189B5CA4155C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E5816EE-9065-4D3D-9C60-66AB71773D79}
+	EndGlobalSection
+EndGlobal

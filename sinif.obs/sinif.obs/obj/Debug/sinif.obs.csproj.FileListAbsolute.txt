@@ -1,0 +1,10 @@
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\bin\Debug\sinif.obs.exe.config
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\bin\Debug\sinif.obs.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\bin\Debug\sinif.obs.pdb
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\obj\Debug\sinif.obs.csproj.AssemblyReference.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\obj\Debug\sinif.obs.Form1.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\obj\Debug\sinif.obs.Properties.Resources.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\obj\Debug\sinif.obs.csproj.GenerateResource.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\obj\Debug\sinif.obs.csproj.CoreCompileInputs.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\obj\Debug\sinif.obs.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\sinif.obs\sinif.obs\obj\Debug\sinif.obs.pdb
